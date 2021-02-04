@@ -1,0 +1,14 @@
+#container{
+    margin-top: 50px;
+}
+
+#timer{
+    padding-bottom:20px;
+    font-size:400%;
+    float: center;
+}
+
+#timer p{
+    font-weight: 100;
+}
+
